@@ -5,7 +5,6 @@ import Navbar from './componets/Navbar';
 import News from './componets/News';
 
 export default class App extends Component {
-   c = "prathik"
   render() {
     return (
       <div>
